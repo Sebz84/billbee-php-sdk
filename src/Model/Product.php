@@ -405,7 +405,8 @@ class Product
      * @var CustomFieldDefinition[]
      * @DataField(name="CustomFields", type="\BillbeeDe\BillbeeAPI\Model\ProductCustomField[]")
      */
-    public $customFields = '';
+    // Remove temorary due type mismatch issues with ObjectMapper
+    //public $customFields = '';
 
     /**
      * @var int
