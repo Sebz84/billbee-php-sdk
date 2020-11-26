@@ -1,5 +1,5 @@
 {
-  "name": "billbee/billbee-api",
+  "name": "sebz84/billbee-api",
   "description": "The official Billbee API SDK for PHP",
   "type": "library",
   "require": {
