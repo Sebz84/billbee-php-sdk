@@ -315,7 +315,7 @@ class Product
      * @var int
      * @DataField(name="SoldAmount", type="int")
      */
-    public $soldAmount = 0;
+    //public $soldAmount = 0;
 
     /**
      * @var float
